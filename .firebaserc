@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "busy-app-8e682": {
+      "hosting": {
+        "bussy-app": [
+          "busy-app-8e682"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "busy-app-8e682"
+  }
+}
